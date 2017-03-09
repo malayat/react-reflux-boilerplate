@@ -9,7 +9,7 @@
   },
   "keywords": [
     "react",
-    "reflux",
+    "redux",
     "react-router",
     "webpack",
     "es6",

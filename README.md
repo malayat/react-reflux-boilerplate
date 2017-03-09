@@ -1,9 +1,14 @@
 # React Boilerplate with ES6/ES7
 This contains the simple environment for to build React Applications with Reflux, React Router and ECMAScript 6/7 syntax.
 
+## Warning
+Please, instead of this project, you can see this other project more updated:
+
+[Simple Counter App](https://github.com/malayat/counterflux)
+
 ## This project gives you the following:
 * [React](https://facebook.github.io/react/)
-* [Reflux](https://github.com/reflux/refluxjs)
+* [Redux](https://github.com/reactjs/redux)
 * [React Router](https://github.com/reactjs/react-router)
 * [Stylus loader](http://stylus-lang.com/)
 * [Webpack](https://webpack.github.io/) build that:  
@@ -27,7 +32,7 @@ This contains the simple environment for to build React Applications with Reflux
 ##References
 * [Learn Redux](https://github.com/wesbos/Learn-Redux-Starter-Files)
 
-##Reflux
+##Redux
 See the console log
 
 <img src='https://cloud.githubusercontent.com/assets/5171608/17750558/b74da8aa-6488-11e6-967c-d63d21912127.png'>
@@ -53,8 +58,3 @@ For the testing dispatch events, you can use this command in the console
 <img src='https://cloud.githubusercontent.com/assets/5171608/17751101/2c9ef710-648b-11e6-92e4-6e844e276df5.png'>
 
 <img src='https://cloud.githubusercontent.com/assets/5171608/17751102/2ca05128-648b-11e6-908b-934757ad0809.png'>
-
-##Update
-Please, instead of this project, you can see this other project more updated:
-
-[Simple Counter App](https://github.com/malayat/counterflux)
