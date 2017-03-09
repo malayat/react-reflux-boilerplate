@@ -53,3 +53,8 @@ For the testing dispatch events, you can use this command in the console
 <img src='https://cloud.githubusercontent.com/assets/5171608/17751101/2c9ef710-648b-11e6-92e4-6e844e276df5.png'>
 
 <img src='https://cloud.githubusercontent.com/assets/5171608/17751102/2ca05128-648b-11e6-908b-934757ad0809.png'>
+
+##Update
+Please, instead of this project, you can see this other project more updated:
+
+[Simple Counter App](https://github.com/malayat/counterflux)
